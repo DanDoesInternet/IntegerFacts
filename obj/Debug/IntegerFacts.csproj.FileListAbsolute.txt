@@ -1,0 +1,6 @@
+C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter08\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe.config
+C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter08\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe
+C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter08\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.pdb
+C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter08\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter08\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.exe
+C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter08\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.pdb
